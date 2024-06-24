@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @zeyinep
+- 👀 I’m interested in software.
+- 🌱 I’m currently learning programming.
+- 💞️ I’m looking to collaborate on internship.
+- 📫 How to reach me: zeynepsyilmaz4@gmail.com
+- 💖 Bye!
